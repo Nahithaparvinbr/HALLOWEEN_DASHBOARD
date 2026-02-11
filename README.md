@@ -5,4 +5,5 @@ This Dashboard explains the evaluation of the individuals who participate in Hal
 DESCRIPTION
 This project presents an interactive Halloween-themed data analysis dashboard designed to uncover historical trends, visitor behavior, and forecast future event participation. The dashboard combines engaging visuals with analytical insights to support data-driven event planning and decision-making.
 
+DASHBOARD LINK
 https://public.tableau.com/app/profile/nahitha.parvin/viz/HALLOWENDASHBOARD/Dashboard1
